@@ -1,0 +1,15 @@
+G:\GITPROJECTS\27.03.2023\task41\bin\Debug\net6.0\task41.exe
+G:\GITPROJECTS\27.03.2023\task41\bin\Debug\net6.0\task41.deps.json
+G:\GITPROJECTS\27.03.2023\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+G:\GITPROJECTS\27.03.2023\task41\bin\Debug\net6.0\task41.dll
+G:\GITPROJECTS\27.03.2023\task41\bin\Debug\net6.0\task41.pdb
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.dll
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\refint\task41.dll
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.pdb
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+G:\GITPROJECTS\27.03.2023\task41\obj\Debug\net6.0\ref\task41.dll
